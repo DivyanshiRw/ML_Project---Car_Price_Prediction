@@ -12,6 +12,9 @@ Fuel: The fuel used (petrol, diesel, CNG, etc.).
 
 ## This model has 78 % accuracy.
 
+## Project Link:
+https://mlproject---carpriceprediction-by-divyanshi9.streamlit.app/
+
 
 ### Something more ....
 It is the first ML model which I tried to create myself. (Took some help from internet.... I am still learning..... but haven't copied from youtube or some repository)
