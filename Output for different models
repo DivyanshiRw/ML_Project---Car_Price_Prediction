@@ -1,0 +1,31 @@
+# Output for different models
+
+1. Linear Regression   ( Performing fast and quite better )
+ 
+   mean:  116697.72200027728
+   standard deviation:  7259.190474412336
+   
+2. Decision Tree Regression
+
+   mean:  150271.29535852678
+   standard deviation:  6926.527066939102
+   
+3. Random Forest
+
+   computationally expensive..... taking long time 
+   mean:  115996.78899969024
+   standard deviation:  8285.20077939541
+   
+4. Gradient Boosting
+
+   mean:  125171.18291426291
+   standard deviation:  7396.685642561249
+   
+5. SVM
+  
+   mean:  266044.36558339436
+   standard deviation:  15382.446153060439
+  
+  
+  
+  
